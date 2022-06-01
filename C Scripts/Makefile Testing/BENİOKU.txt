@@ -1,0 +1,19 @@
+Bir dosya düzeni içine "Makefile" dosyası "include", "sr"c ve "test" klasörleri oluşturulur.
+
+"src" klasörü içinde kütüphaneye eklenmek istenen fonksiyonlar ".c" uzantılı dosyalar
+halinde bulunur.
+
+"include" klasörü içinde kütüphaneye eklenmek istenen fonksiyonların C dilinde yazılmış 
+fonksiyon isimleri ".h" uzantılı dosyalar halinde bulunur.
+
+"test" klasörü içinde kütüphane fonksiyonlarını test eden "test.c" dosyası bulunur.
+
+
+
+"Makefile" dosyasının bulunduğu dizinde "make" komutu çalıştırılır.
+
+Derleme işleminden sonra "./program" komutu çalıştırılarak "test.c" test edilir.
+
+"make clean" komutu çalıştırılarak oluşturulan "lib" ve "obj" klasörleri ve program dosyası
+silinir.
+

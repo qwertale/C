@@ -1,0 +1,11 @@
+Hesaplamaları yaptığım bilgisayarın işlmecisi: 
+
+Intel(R) Core(TM) i7-7700HQ CPU @ 2.80 GHz
+
+Temel Hız: 2.80 GHz
+Turbo Hız: 3.80 GHz
+Çekirdekler: 4
+Mantıksal İşlemciler: 8
+L1 Önbelleği: 256 KB
+L2 Önbelleği: 1.0 MB
+L3 Önbelleği: 6.0 MB

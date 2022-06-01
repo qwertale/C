@@ -1,0 +1,21 @@
+256 lık blok matris hesabı
+
+Düz matris hesabı zamanı ortalaması: 122.283294 sn
+Blok matris hesabı zamanı ortalaması: 68.009232 sn
+
+512 lik blok matris hesabı
+
+Düz matris hesabı zamanı ortalaması: 128.757010 sn
+Blok matris hesabı zamanı ortalaması: 69.920193 sn
+
+
+1024 lük blok matris hesabı
+
+Düz matris hesabı zamanı ortalaması: 120.411782 sn
+Blok matris hesabı zamanı ortalaması: 101.818021 sn
+
+
+2048 lük blok matris hesabı
+
+Düz matris hesabı zamanı ortalaması: 117.105796 sn
+Blok matris hesabı zamanı ortalaması: 225.780901 sn
