@@ -1,0 +1,8 @@
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('1','Ýsmail','Ýþeri','100000','2014-02-20 00:00:00.000','1')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('2','Hami','Satýlmýþ','80000','2014-06-11 00:00:00.000','1')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('3','Durmuþ','Þahin','300000','2014-02-20 00:00:00.000','2')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('4','Kaðan','Yazar','500000','2014-02-20 00:00:00.000','3')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('5','Meryem','Soysaldý','500000','2014-06-11 00:00:00.000','3')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('6','Duygu','Akþehir','200000','2014-06-11 00:00:00.000','2')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('7','Kübra','Seyhan','75000','2014-01-20 00:00:00.000','1')
+insert into calisanlar (calisan_id, ad, soyad, maas, katilmatarihi, calisan_birim_id ) values ('8','Gülcan','Yýldýz','90000','2014-04-11 00:00:00.000','3')

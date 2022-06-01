@@ -1,0 +1,1 @@
+deny delete, insert on orders1 to server1

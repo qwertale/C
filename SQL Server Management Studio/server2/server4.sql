@@ -1,0 +1,1 @@
+grant insert, update on orders1 to server1

@@ -1,0 +1,1 @@
+create login server1 with password = '123', default_database = server1

@@ -1,0 +1,8 @@
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('1','Yönetici','2016-02-20 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('2','Personel','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('8','Personel','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('5','Müdür','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('4','Yönetici Yardımcısı','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('7','Personel','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('6','Takım Lideri','2016-06-11 00:00:00.000')
+insert into unvan (unvan_calisan_id, unvan_calisan, unvan_tarih ) values ('3','Takım Lideri','2016-06-11 00:00:00.000')

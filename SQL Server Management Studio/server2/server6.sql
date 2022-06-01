@@ -1,0 +1,1 @@
+revoke all on orders1 to server1

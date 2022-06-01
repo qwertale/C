@@ -1,0 +1,1 @@
+create index URETIM_TARIHI_INDEX on UCAK(URETIM_TARIHI asc);
